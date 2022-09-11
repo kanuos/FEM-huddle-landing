@@ -36,7 +36,7 @@ This project uses **HTML** and **vanilla CSS** to implement a *mobile first*, *r
 ### Links
 
 - Solution URL: [Github](https://github.com/kanuos/FEM-huddle-landing)
-- Live Site URL: [Github Pages]
+- Live Site URL: [Github Pages](https://kanuos.github.io/FEM-huddle-landing/)
 
 
 

@@ -31,6 +31,7 @@ header {
 }
 
 .page-container {
+  min-height: 100vh;
   height: 100%;
   padding: 1rem 2rem;
   display: flex;
@@ -112,7 +113,7 @@ section.content {
 
 /* attribution -sr-only */
 footer {
-  margin-top: 3rem;
+  margin-top: auto;
   width: 100%;
 }
 .attribution {
@@ -199,8 +200,7 @@ ul.icon__list {
   body {
     background-image: url(./images/bg-desktop.svg),
       linear-gradient(var(--primary-color), var(--primary-color));
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   .page-container {
